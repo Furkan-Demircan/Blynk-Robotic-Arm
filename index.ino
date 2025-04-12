@@ -7,8 +7,8 @@
 #include <ESP32Servo.h>
 
 // Wi-Fi Bilgileri
-char ssid[] = "FurkanPc";       // Wi-Fi ağ adınız                                                 
-char pass[] = "Eren1234";   // Wi-Fi şifreniz
+char ssid[] = "WifiName";       // Wi-Fi ağ adınız                                                 
+char pass[] = "WifiPassword";   // Wi-Fi şifreniz
 
 BlynkTimer timer;
 Servo myServo;
