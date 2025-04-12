@@ -11,14 +11,14 @@ This project provides a robotic arm control system using an ESP32 microcontrolle
 - Customizable control parameters (motor angles, delay, etc.).
 
 ## Components
-- **ESP32 Microcontroller**: The main controller for the robotic arm.
+- **Deneyap Microcontroller**: The main controller for the robotic arm.(Esp32 Based)
 - **Stepper Motors (2)**: Used to control the movement of the robotic arm along two axes.
 - **Servo Motor (1)**: Used to control the arm's gripper or additional rotation.
 - **Electromagnet**: Used to pick up or release objects when activated.
 - **Blynk Mobile App**: For controlling the robotic arm remotely.
 
 ## Hardware Setup
-1. **ESP32 Pin Connections**:
+1. **Deneyap Pin Connections**:
     - **Step Motor 1 (X-axis)**:
         - IN1_PIN -> D12
         - IN2_PIN -> D13
