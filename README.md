@@ -1,5 +1,8 @@
 # Robotic Arm Control with Stepper and Servo Motors
 
+## Youtube
+https://youtu.be/TGqBs9Fx1bM?si=EDzQ83Xwp2XF8Eug
+
 ## Project Overview
 This project provides a robotic arm control system using an ESP32 microcontroller, stepper motors, and a servo motor. The system is integrated with Blynk for remote control, enabling users to control the arm's position via a mobile app. Additionally, the robotic arm can be controlled using an electromagnet, making it suitable for applications requiring precision movement and object manipulation.
 
